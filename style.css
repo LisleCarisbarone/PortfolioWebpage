@@ -1,0 +1,62 @@
+img {
+  width: 25%;
+  height: 25%;
+}
+
+header {
+  background-color:#240046;
+  text-align: center;
+  color: white; 
+}
+
+ footer {
+   background-color:black ;
+  text-align: center;
+  color: white; 
+ }
+
+body {
+  background-color: #10002b;
+  color: white;
+  text-align: center; 
+  font-family: cursive;
+  font-size:20px;  
+}
+
+h1, h2, h3 {
+  text-align: center;
+  text-decoration: underline;
+}
+
+a:link {
+  color: white;
+}
+
+a:visited {
+  color: indigo;
+}
+
+a:hover {
+  color: rebeccapurple;
+}
+
+a:active {
+  color:black;
+}
+
+hr {
+  border: 2px solid indigo;
+  border-radius: 3px; 
+  width: 75%;
+}
+
+ol, ul {
+  text-align: left;
+}
+
+div {
+  padding: 50px;
+  text-align: left;
+  margin-left: 25%;
+  margin-right: 25%;
+}
